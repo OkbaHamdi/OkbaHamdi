@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey there 👋, I'm Okba
+I'm a Computer Science student and competitive programmer
+
+I like to learn the details behind complex systems.
+I'm mostly interested in anything with relation to Web,Mobile Development, Crypto and Algorithms .
+I'm learning something new everyday !
+
+feel free to connect with me !
 
 <!--
 **OkbaHamdi/OkbaHamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
