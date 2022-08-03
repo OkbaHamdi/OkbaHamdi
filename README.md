@@ -2,7 +2,7 @@
 I'm a Computer science student talented by Competitve programming .</br>
 I want to extend my knowlege in this field and especially in advanced algorithms .</br>
 I aim to acquire extendable knowledge also about security , mobile and web development ...</br>
-I admire computer science and I want to earn something new frequently .</br>
+I admire computer science and I want to learn something new frequently .</br>
 Feel free to connect with me !</br>
 
 <!--
