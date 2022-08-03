@@ -1,6 +1,5 @@
 ### Hey there 👋, I'm Okba
 I'm a Computer Science student and competitive programmer .</br>
-I like to learn the details behind every complex system .</br>
 I aim to acquire extendable knowledge in anything with relation to Algorithms,Mobile Development,Web ansd Crypto...</br>
 I always try to learn something new  !</br>
 feel free to connect with me !</br>
