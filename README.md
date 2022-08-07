@@ -3,7 +3,7 @@ I'm a Computer science student interested in Competitve programming .</br>
 I want to extend my knowlege in this field and especially in advanced algorithms .</br>
 I aim to acquire extendable knowledge also about security , mobile and web development ...</br>
 I admire computer science and I want to learn something new frequently .</br>
-Feel free to connect with me !</br>
+<samp>feel free to <a href="https://www.linkedin.com/in/okba-hamdi-3637a0225/">connect</a> with me !</samp>
 
 <!--
 **OkbaHamdi/OkbaHamdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
