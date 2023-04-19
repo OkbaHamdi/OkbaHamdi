@@ -1,15 +1,15 @@
 ### Hey there 👋, I'm Okba
-As a curious and motivated computer science
+<br>As a curious and motivated computer science
 engineering student, I am passionate about
-exploring a broad range of technologies. My
-love for problem-solving drives me to
+exploring a broad range of technologies.</br>
+<br>My love for problem-solving drives me to
 continuously learn and grow my skills, with
 particular interests in web and mobile
 development, artificial intelligence, distributed
-systems, and beyond. I am excited to take on
-new challenges and opportunities as I strive to
+systems, and beyond.</br>
+<br>I am excited to take on new challenges and opportunities as I strive to
 become a knowledgeable and versatile
-computer science engineer.
+computer science engineer.</br>
 
 feel free to <a href="https://www.linkedin.com/in/okba-hamdi-3637a0225/">connect</a> with me !
 
