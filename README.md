@@ -1,4 +1,15 @@
 ### Hey there 👋, I'm Okba
+As a curious and motivated computer science
+engineering student, I am passionate about
+exploring a broad range of technologies. My
+love for problem-solving drives me to
+continuously learn and grow my skills, with
+particular interests in web and mobile
+development, artificial intelligence, distributed
+systems, and beyond. I am excited to take on
+new challenges and opportunities as I strive to
+become a knowledgeable and versatile
+computer science engineer.
 I'm a Computer science student interested in Competitve programming .</br>
 I want to extend my knowlege in this field and especially in advanced algorithms .</br>
 I aim to acquire extendable knowledge also about security , mobile and web development ...</br>
