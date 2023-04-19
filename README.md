@@ -1,12 +1,12 @@
 ### Hey there 👋, I'm Okba
 <br>As a curious and motivated computer science
 engineering student, I am passionate about
-exploring a broad range of technologies.</br>
+exploring a broad range of technologies.
 <br>My love for problem-solving drives me to
 continuously learn and grow my skills, with
 particular interests in web and mobile
 development, artificial intelligence, distributed
-systems, and beyond.</br>
+systems, and beyond.
 <br>I am excited to take on new challenges and opportunities as I strive to
 become a knowledgeable and versatile
 computer science engineer.</br>
