@@ -10,11 +10,7 @@ systems, and beyond. I am excited to take on
 new challenges and opportunities as I strive to
 become a knowledgeable and versatile
 computer science engineer.
-I'm a Computer science student interested in Competitve programming .</br>
-I want to extend my knowlege in this field and especially in advanced algorithms .</br>
-I aim to acquire extendable knowledge also about security , mobile and web development ...</br>
-I admire computer science and I want to learn something new frequently .</br>
-</br>
+
 feel free to <a href="https://www.linkedin.com/in/okba-hamdi-3637a0225/">connect</a> with me !
 
 <!--
